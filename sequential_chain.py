@@ -11,7 +11,7 @@ prompt1 = PromptTemplate(
 )
 
 prompt2 = PromptTemplate(
-    template = "Generate a 5 ponter summary from the following text \n  {text}",
+    template = "Generate a 5 pointer summary from the following text \n  {text}",
     input_variables = ['text']
 )
 
